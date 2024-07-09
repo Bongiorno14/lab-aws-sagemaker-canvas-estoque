@@ -1,0 +1,1001 @@
+employment_length,probability,id,employer_title,home_ownership,annual_income
+10.0,0.30812496,1077501,,rent,24000.0
+1.0,0.33785075,1077430,ryder,rent,30000.0
+10.0,0.28833166,1077175,,rent,12252.0
+10.0,0.26619902,1076863,air resources board,rent,49200.0
+1.0,0.18026847,1075358,university medical group,rent,80000.0
+3.0,0.25850615,1075269,veolia transportaton,rent,36000.0
+8.0,0.22756353,1069639,southern star photography,rent,47004.0
+9.0,0.29138622,1072053,mkc accounting,rent,48000.0
+4.0,0.20051898,1071795,,own,40000.0
+1.0,0.39404926,1071570,starbucks,rent,15000.0
+10.0,0.21835707,1070078,southwest rural metro,own,72000.0
+10.0,0.3607986,1069908,ucla,own,75000.0
+1.0,0.29511666,1064687,va. dept of conservation/recreation,rent,30000.0
+1.0,0.28859335,1069866,target,rent,15000.0
+3.0,0.20477,1069057,sfmta,rent,100000.0
+1.0,0.25678974,1069759,internal revenue service,rent,28000.0
+4.0,0.16637722,1065775,chin's restaurant,rent,42000.0
+10.0,0.4395478,1069971,duracell,mortgage,110000.0
+3.0,0.28792608,1062474,connection inspection,mortgage,84000.0
+1.0,0.1740403,1069742,network interpreting service,rent,77385.19
+8.0,0.25980872,1069740,archdiocese of galveston houston,rent,43370.0
+10.0,0.17749465,1039153,osram sylvania,rent,105000.0
+10.0,0.36740553,1069710,value air,own,50000.0
+10.0,0.23683177,1069700,wells fargo bank,rent,50000.0
+1.0,0.29877934,1069559,bmg-educational,rent,76000.0
+10.0,0.24755871,1069697,winfield pathology consultants,mortgage,92000.0
+9.0,0.25001174,1069800,nyc transit,rent,60000.0
+10.0,0.2251792,1069657,frito lay,rent,50004.0
+10.0,0.35239103,1069799,shands hospital at the university of fl,mortgage,106000.0
+1.0,0.35697934,1047704,oakridge homes,rent,25000.0
+7.0,0.38111576,1032111,,mortgage,17108.0
+10.0,0.23877464,1069539,audubon mutual housing corporation,mortgage,75000.0
+2.0,0.22192453,1065420,us legal support,rent,29120.0
+2.0,0.4135756,1069591,good samaritan society,rent,24044.0
+10.0,0.1929869,1069530,greg barrett drywall,rent,34000.0
+10.0,0.3422581,1069522,sharp lawn inc.,rent,41000.0
+10.0,0.2666918,1069361,department of justice,rent,55596.0
+1.0,0.22486536,1069357,gateway hospice,rent,45000.0
+3.0,0.24690424,1069356,cox communications,rent,36852.0
+1.0,0.36482888,1069346,united states infrastructure corporation,rent,27000.0
+5.0,0.1758608,1067573,nucor building systems,rent,68004.0
+10.0,0.37265494,1069506,john wiley jr.,rent,62300.0
+9.0,0.3154645,1069314,,mortgage,65000.0
+10.0,0.28717124,1060578,citizens bank,rent,55000.0
+10.0,0.27399415,1069469,"stewart enterprises, inc.",mortgage,45600.0
+3.0,0.26232588,1051117,golfers warehouse,rent,80000.0
+10.0,0.25290042,1069465,steris corporation,mortgage,100000.0
+1.0,0.18892807,1069283,costco wholesale corp.,rent,27000.0
+10.0,0.24190815,1069287,helicoil,rent,60000.0
+1.0,0.17427707,1069453,cognizant technology solutions,rent,70000.0
+8.0,0.4447727,1069248,caterpillar inc.,mortgage,80000.0
+6.0,0.18491432,1068120,city of santa monica,rent,110000.0
+1.0,0.23664327,1069244,aerotek scientific,rent,40000.0
+10.0,0.26599124,1069243,chemat technology inc,rent,50000.0
+1.0,0.27501515,1069238,scott & white,rent,46000.0
+10.0,0.22724494,1069410,costco,rent,50000.0
+1.0,0.24156076,1068409,ca technologies,rent,81000.0
+1.0,0.2702302,1068487,netflix,own,39000.0
+2.0,0.22003342,1043961,dcaa,rent,51400.0
+3.0,0.19774331,1068945,triple d security,mortgage,33000.0
+1.0,0.32475585,1069142,wrisco,mortgage,30000.0
+6.0,0.2999008,1068934,,rent,40000.0
+10.0,0.21448722,1069136,webb candy,rent,50000.0
+10.0,0.23124303,1068923,omniplex,rent,62000.0
+10.0,0.29766706,1069126,cec entertainment inc,rent,45996.0
+10.0,0.28418377,1069102,cpi,mortgage,55000.0
+1.0,0.2501341,1069093,grandma kitchen,rent,30000.0
+4.0,0.3006731,1069030,"gen-probe, inc",rent,44544.0
+4.0,0.3094537,1068906,autozone,rent,75000.0
+10.0,0.26457828,1069073,usaf civil service,own,61000.0
+10.0,0.24697873,1069043,dollar tree stores,mortgage,44000.0
+5.0,0.27789447,1060981,"riverside county, california",rent,75000.0
+1.0,0.3508407,1069071,insight card services,rent,33600.0
+3.0,0.26049486,1069070,genocea biosciences,rent,50000.0
+10.0,0.1661512,1068893,model metrics,own,150000.0
+10.0,0.20579976,1068882,boro of butler,rent,90000.0
+10.0,0.2786378,1069039,tx army national guard,mortgage,48000.0
+1.0,0.19838697,1068416,cross country travel corp,rent,75000.0
+10.0,0.23220041,1068997,segovia's transportion inc.,mortgage,52000.0
+10.0,0.28307962,1048390,avmed health plans,mortgage,65000.0
+10.0,0.16792296,1068994,tutor per ini corporation,mortgage,150000.0
+1.0,0.21015863,1068475,sap,rent,68000.0
+1.0,0.30437976,1068989,koi restaurant,rent,42000.0
+4.0,0.2818317,1068967,casestack,rent,53000.0
+1.0,0.19578911,1068744,bellflower convalecent hospital,rent,35000.0
+1.0,0.1613496,1045509,kaiser permanente,rent,60000.0
+1.0,0.20291193,1063958,community colleges of spokane,rent,28000.0
+1.0,0.28257185,1041756,barnes distribution,mortgage,42000.0
+9.0,0.15216063,1068694,phoenix newspapers inc.,rent,88365.0
+1.0,0.2036392,1068792,lithia motors,rent,72000.0
+10.0,0.21562213,1068558,insight global,rent,62000.0
+3.0,0.2566419,1068322,winghouse corporation,mortgage,43680.0
+6.0,0.19382095,1065674,claret wine bar,rent,120000.0
+10.0,0.25388885,1068547,o'connor,rent,66000.0
+1.0,0.21183506,1068545,harris,own,39120.0
+1.0,0.23144722,1068575,ossi,rent,85000.0
+1.0,0.227595,1049528,ncs technologies,mortgage,47800.0
+3.0,0.19701865,1068542,travelers insurance,mortgage,45000.0
+10.0,0.3868546,1068350,j&j steel inc,mortgage,83000.0
+1.0,0.18158925,1067874,anadarko petroleum corporation,rent,81000.0
+2.0,0.37075958,1068509,sunrise senior living,rent,25000.0
+7.0,0.39365062,1034693,menards,rent,65000.0
+8.0,0.17248861,1068508,a touch of italy,own,28800.0
+2.0,0.17559761,1066641,new york living solutions,rent,135000.0
+10.0,0.2090295,1068315,natex architects,mortgage,50000.0
+10.0,0.32899252,1068309,texas health & human services commission,rent,38000.0
+10.0,0.23805478,1068326,city of newport beach,rent,45000.0
+5.0,0.18438523,1066767,becker construction corporation,rent,80000.0
+1.0,0.20020124,1068484,edward jones,rent,50000.0
+10.0,0.19390765,1068292,monroe dispat,mortgage,30000.0
+9.0,0.19867197,1068273,,mortgage,110000.0
+10.0,0.25615737,1068274,east baton rouge parish school system,own,45608.0
+10.0,0.20771001,1068440,charlotte regional medical center,mortgage,120000.0
+10.0,0.20545495,1046456,opw fuel management systems,mortgage,35000.0
+10.0,0.25680906,1068012,gucci group/ yves saint laurent,rent,75000.0
+9.0,0.20790978,1055725,wal-mart,mortgage,35000.0
+2.0,0.39262366,1061814,renal support network,rent,24000.0
+10.0,0.27125892,1068232,"avon protection systems, inc.",mortgage,126000.0
+1.0,0.27794856,1068405,ram dme,rent,43000.0
+3.0,0.19490047,1068395,samuraisushi restaurant,rent,50000.0
+10.0,0.33614528,1068202,midnight,mortgage,67000.0
+4.0,0.3327858,1068006,"pacific wood laminates, inc.",rent,45000.0
+3.0,0.41848847,1068075,albert einstein college of medicine,rent,31200.0
+5.0,0.19637805,1065642,mwh americas,rent,66000.0
+10.0,0.23738337,1068179,american airlines,rent,52000.0
+10.0,0.30031216,1068158,united states air force,rent,56964.0
+10.0,0.19230664,1068180,united states air force,rent,49500.0
+2.0,0.20222391,1065673,king soopers (kroger co),rent,70000.0
+6.0,0.24423523,1068159,city of los angeles,mortgage,125000.0
+3.0,0.40821016,1068165,malvern school of medford,rent,33000.0
+1.0,0.3005525,1059689,best buy,rent,30000.0
+8.0,0.4064565,1066215,lafidale inc,mortgage,90000.0
+2.0,0.38729513,1063270,dennis alleman dmd,mortgage,23000.0
+2.0,0.3216523,1067931,military,rent,24000.0
+10.0,0.24463642,1067922,carroll county public schools,rent,62000.0
+4.0,0.30960354,1067919,dental tlc,rent,44000.0
+1.0,0.23966219,1068106,infosys technologies ltd.,rent,90000.0
+10.0,0.23668204,1068111,aetna,rent,41000.0
+2.0,0.36120218,1067655,barnes and noble,mortgage,56000.0
+3.0,0.1496724,1060662,wv state tax department,mortgage,26500.0
+10.0,0.23476085,1061304,norfolk southern,rent,54000.0
+2.0,0.2892094,1068095,search for common ground,rent,53000.0
+10.0,0.2068529,1067182,kazork,rent,52800.0
+1.0,0.25866768,822464,ashbrook village senior community,mortgage,38000.0
+2.0,0.18605821,1063526,bank of the west,rent,38000.0
+1.0,0.17625599,1068091,luxottica retail,rent,42000.0
+10.0,0.21013243,1068090,energy northwest,rent,55000.0
+10.0,0.23748587,1068082,state of georgia/united states air force,mortgage,60000.0
+10.0,0.20795396,1068078,medin corporation,mortgage,87000.0
+5.0,0.19068256,1057633,best buy,own,25000.0
+1.0,0.16876727,1046204,the mcgraw-hill companies,rent,82000.0
+8.0,0.22506492,1067794,karl strauss brewing company,rent,60000.0
+10.0,0.22201517,1067816,buckhead family dentistry,mortgage,80000.0
+2.0,0.22945729,1068018,vons,rent,25000.0
+5.0,0.19763039,1052996,"marks & sokolov, llc",rent,48000.0
+10.0,0.23875281,1067818,o'reilly auto parts,mortgage,85000.0
+10.0,0.21616012,1064842,rite aid,rent,57000.0
+2.0,0.4776566,1067109,cvs/pharmacy,rent,25000.0
+2.0,0.24574654,1067971,pnc ficial services,rent,34000.0
+10.0,0.21930891,1057518,city of hillsboro,rent,40000.0
+10.0,0.24770719,1067473,us army,rent,42656.4
+4.0,0.20612541,1062177,senior dental insurance solutions,mortgage,44400.0
+2.0,0.33142254,1067447,upper valley food co-op,own,30000.0
+6.0,0.14397426,1059412,marshall realty,mortgage,70000.0
+3.0,0.33506203,1062608,studio 94 corp,rent,28000.0
+2.0,0.35565534,1067664,st john hospital,mortgage,50000.0
+10.0,0.2802283,1067441,american airlines,mortgage,94800.0
+10.0,0.17333432,1067654,indian river county clerk of court,own,40000.0
+10.0,0.23159866,1067644,,own,12000.0
+5.0,0.13915232,1062288,feld entertainment,mortgage,36000.0
+2.0,0.22727917,1067434,mcgraw- hill,rent,225000.0
+2.0,0.20134053,1067419,samsung information systems america,rent,45900.0
+4.0,0.15011904,1067601,bartell drugs,rent,27200.0
+1.0,0.17625599,1067579,sensus healthcare,rent,42000.0
+4.0,0.2162286,1067563,walgreens,rent,135000.0
+10.0,0.2271584,1067364,edgestone real estate,rent,65000.0
+10.0,0.16185768,1067152,us bank,rent,24000.0
+6.0,0.35479155,1062471,independent imaging,rent,70000.0
+10.0,0.25413516,1066842,express llc,rent,65000.0
+10.0,0.2275774,1067126,calix,rent,60000.0
+3.0,0.33999047,1067326,metlife,rent,30000.0
+10.0,0.24718228,1066789,cajon valley union school district,rent,43000.0
+10.0,0.19653575,1067324,schneider national inc,rent,42000.0
+10.0,0.26380157,1067102,santa clara county public defender,rent,75000.0
+10.0,0.32580876,1046969,department of health,mortgage,129000.0
+2.0,0.3370481,1067084,baylor college of medicine,mortgage,168000.0
+9.0,0.2603938,1067090,,mortgage,74000.0
+1.0,0.28301686,1060875,edit,mortgage,52000.0
+10.0,0.22517973,1067265,marsh,rent,58500.0
+1.0,0.17819339,1067287,aavmc,rent,71000.0
+10.0,0.24311072,1067066,state of washington,rent,75000.0
+10.0,0.21978238,1067283,pure flo water company,rent,60000.0
+2.0,0.19718839,1067266,city of new york,rent,87996.0
+5.0,0.24417236,1066635,cisco systems inc.,mortgage,140000.0
+10.0,0.29066128,1067026,us air force,rent,66000.0
+8.0,0.47345406,1067038,corning inc.,mortgage,70000.0
+10.0,0.31994155,1067030,ups,mortgage,100000.0
+5.0,0.22478831,1065350,gilbert express,rent,50000.0
+4.0,0.1840082,1067028,talbert house,rent,35000.0
+6.0,0.33313197,1061877,,rent,75000.0
+5.0,0.21327305,1067018,kohls corporation,rent,71000.0
+10.0,0.22273879,1067223,"hospice peachtree, llc",mortgage,48000.0
+2.0,0.23969021,1067004,merks bar and grill,rent,36000.0
+10.0,0.23341087,1031265,itt aerospace controls,mortgage,86000.0
+3.0,0.2539382,1066835,butte community college,rent,30000.0
+10.0,0.21932045,1067181,deloitte tax llp,rent,60000.0
+3.0,0.2554054,1067179,bmw,rent,34000.0
+10.0,0.33637437,1067172,eel river brewing co.,mortgage,44200.0
+10.0,0.22097237,1066712,johns hopkins hospital,mortgage,82000.0
+2.0,0.19525065,1066706,united states dhs,mortgage,83000.0
+2.0,0.22057615,1066836,the university of texas,rent,41000.0
+1.0,0.3574577,1066826,usd 362,mortgage,36000.0
+10.0,0.17197524,1063280,jpmorgan chase bank,rent,35000.0
+1.0,0.32620484,1057447,windsor marketing group,rent,30000.0
+6.0,0.18709514,1040867,new view gifts & accessories,rent,40000.0
+10.0,0.20644373,1065232,sigma relocation group,mortgage,105000.0
+4.0,0.19324276,1052492,best buy,mortgage,45000.0
+10.0,0.35678068,1066664,new jersey institute of technology (njit,mortgage,109000.0
+2.0,0.23262918,1066659,jp morgan chase bank,rent,50000.0
+2.0,0.19646424,1066763,pricewaterhousecoopers,rent,83000.0
+10.0,0.2781305,1066798,san diego unified school district,mortgage,52500.0
+1.0,0.38597536,1066639,rms/iqor,own,25000.0
+10.0,0.2308728,1066633,big m inc,mortgage,60000.0
+10.0,0.15965043,1060644,"mall spe, llc",mortgage,120000.0
+10.0,0.28010926,1066766,"st. mary's health care system, inc.",rent,68000.0
+10.0,0.3348289,1066613,pepsico,mortgage,53000.0
+10.0,0.25985155,1065648,wa state vdshs,mortgage,69600.0
+10.0,0.25937572,1066768,vibrato grill jazz etc...,rent,65000.0
+10.0,0.3737615,1066617,walt disney co.,mortgage,144000.0
+2.0,0.16343687,1062015,ajel technologies inc,rent,75000.0
+10.0,0.15421389,1066598,bioscreen clinical servicesa,mortgage,29000.0
+2.0,0.19254386,1066503,nor cal beverage,rent,70000.0
+4.0,0.16675489,1066530,penske logistics,rent,45000.0
+10.0,0.30219442,1066520,king county sheriffs office,mortgage,55200.0
+10.0,0.24206278,1065929,impax laboratory,mortgage,61440.0
+10.0,0.34341472,1066582,maroone chevrolet of west dade,mortgage,56000.0
+1.0,0.16794951,1066348,ch robinson,rent,47000.0
+10.0,0.25256377,1061430,oxyheal health group,rent,55000.0
+10.0,0.21183419,1061519,social security administration - odar,rent,71000.0
+5.0,0.19498579,1066344,corbett industries,rent,50000.0
+8.0,0.18566586,1066480,hillstone restaurant group,rent,135000.0
+10.0,0.32848457,1066471,city of alpharetta,mortgage,63000.0
+10.0,0.22794928,1064063,executive plaza,mortgage,44000.0
+5.0,0.200592,1066318,,mortgage,50000.0
+5.0,0.19346026,1066453,southern methodist university,rent,80000.0
+4.0,0.27608526,1063090,virginiamasonmedicalcenter,rent,45000.0
+1.0,0.19110684,1061406,kenover marketing,rent,78000.0
+3.0,0.44907862,1066278,citizens utility board of oregon,rent,33000.0
+10.0,0.16365099,1066281,philips healthcare,rent,62800.0
+3.0,0.22474779,1056150,"cardinal health stafford, texas.",rent,26400.0
+10.0,0.38664412,1066434,ibm,mortgage,80000.0
+1.0,0.2857935,1048526,xoxo salon,rent,25000.0
+1.0,0.23572622,1028566,dfw international airport,mortgage,65000.0
+10.0,0.26974618,1066424,sci mahanoy,own,59000.0
+3.0,0.24448511,1066212,cyberpower,rent,33000.0
+10.0,0.33548656,1066232,first national bank of st. louis,rent,39000.0
+1.0,0.22292674,1056219,wolverton inc.,rent,42000.0
+10.0,0.19566396,1066199,sparrow health,mortgage,38004.0
+3.0,0.21391188,1060851,multisensory learning academy,own,31000.0
+10.0,0.30332363,972383,new buck corporation,mortgage,50700.0
+10.0,0.24412341,1066191,national park service,own,75000.0
+3.0,0.38221323,1066173,gem city motors,mortgage,30000.0
+6.0,0.22656006,1066379,quad graphics,rent,40000.0
+10.0,0.38625813,1066364,st. joseph hospital,mortgage,50000.0
+10.0,0.25706512,1066140,musco lighting,mortgage,80000.0
+4.0,0.18628532,1066171,chesapeak process service inc,rent,40000.0
+2.0,0.17188871,1066162,"time escrow, inc.",rent,80000.0
+3.0,0.18055105,1040154,,rent,75000.0
+8.0,0.40881053,1066155,"navistar, inc.",mortgage,85000.0
+1.0,0.42425722,1065382,dr.boers,rent,28800.0
+10.0,0.30905423,1063447,,rent,35000.0
+10.0,0.22534126,1065932,oceanside college of beauty,rent,61200.0
+1.0,0.16622789,1065936,medical delivery services,rent,40000.0
+1.0,0.44646972,1066112,guardsmark,rent,25920.0
+9.0,0.32977027,1066084,"allen flavors, inc.",mortgage,54000.0
+10.0,0.36483577,1066081,,rent,18000.0
+5.0,0.18503088,1065896,twitch llc,rent,85000.0
+4.0,0.18740027,1066065,accenture,rent,78000.0
+10.0,0.29330865,1066071,interim health care,own,45600.0
+6.0,0.19251752,1062094,bbva compass,rent,70000.0
+4.0,0.2789302,1061154,dream town,rent,70000.0
+10.0,0.28229412,1066061,new england window and door,mortgage,80000.0
+5.0,0.22739808,1065863,pepsi beverage company,rent,50000.0
+10.0,0.19675955,1065862,durango & silverton narrow gauge rr,mortgage,35000.0
+10.0,0.29025546,1065854,fofg,mortgage,65000.0
+10.0,0.2324936,1065145,latique handbag,mortgage,84000.0
+10.0,0.395874,1062260,tubecityims,mortgage,75000.0
+6.0,0.14423458,1065842,fairfax county government,rent,35000.0
+6.0,0.3447264,1066018,,rent,40000.0
+1.0,0.2773953,1049352,"the holmes organisation, inc.",mortgage,100000.0
+6.0,0.20738654,1066016,kearny ferderal savings bank,own,40000.0
+10.0,0.24607638,1065997,the reis group,rent,52000.0
+3.0,0.21368583,1061891,pwc,rent,92500.0
+9.0,0.255276,1065752,city & county of san francisco,rent,61000.0
+10.0,0.30249724,1063126,neil nakai inc.,rent,36000.0
+10.0,0.21244846,1065738,pilot fregith services,mortgage,68000.0
+1.0,0.2254559,1061467,louis vuitton,rent,80000.0
+10.0,0.20964494,1065721,the university club,rent,43000.0
+5.0,0.17708454,1065717,draft fcb,rent,150000.0
+10.0,0.25507823,1065026,st. rose san martin,rent,50000.0
+6.0,0.19026138,1057001,,rent,70000.0
+6.0,0.20723473,1065513,old republic home protection,own,40000.0
+10.0,0.18097742,1065698,university primary care,own,35000.0
+4.0,0.1566219,1065681,raytheon,rent,80000.0
+10.0,0.24762158,1061788,federal,own,59000.0
+1.0,0.1738983,1065484,crown plaza manhattan,rent,40000.0
+5.0,0.29744726,1061681,prospect transportation inc.,rent,85000.0
+10.0,0.23948868,1065661,simple fice technology corp.,rent,55000.0
+9.0,0.21675058,1065663,city of capitola,rent,110000.0
+10.0,0.19457945,1065480,prairie du chien memorial hospital,rent,100000.0
+10.0,0.19684067,1065658,choate investment advisors,rent,62000.0
+1.0,0.17318328,1065447,southeastern technical college,rent,45000.0
+5.0,0.23592201,1065470,ah interiors inc.,rent,110000.0
+3.0,0.27282754,1065467,responsive learning technologies,rent,60000.0
+10.0,0.3225454,1065649,kings county district attorney's office,rent,61500.0
+3.0,0.2924896,1065430,americare,rent,33000.0
+3.0,0.28001276,1059462,fisher scientific,rent,61000.0
+10.0,0.36660245,1064102,level 3 communications,own,78216.0
+1.0,0.23149031,1062399,nexcom,mortgage,62000.0
+10.0,0.19892256,1065572,nutrasweet,rent,50964.0
+1.0,0.14891589,1065567,qualtek manufacturing,rent,43680.0
+10.0,0.22934261,1065342,micro/sys,mortgage,56000.0
+5.0,0.22142282,1065355,newark public schools,rent,50700.0
+10.0,0.3008894,1058717,,mortgage,60000.0
+3.0,0.2241767,1065348,the newell group,rent,30000.0
+5.0,0.1628003,890389,virginia tech,rent,50000.0
+10.0,0.26216927,1065142,aspens water and sewer district,rent,75000.0
+5.0,0.19464919,1065320,institute for family health,rent,90000.0
+10.0,0.2564322,1065304,shaws,rent,55000.0
+10.0,0.34330645,1065180,state of mass. dds,mortgage,50000.0
+3.0,0.21613887,1065298,patriot general,rent,84000.0
+6.0,0.1766366,1064904,jacobs engineering,own,155000.0
+9.0,0.20728302,1064696,"agora, inc.",mortgage,62000.0
+2.0,0.4215818,977277,the woodlands ficial group,mortgage,175000.0
+2.0,0.24455744,1065260,above the title ent.,rent,30000.0
+7.0,0.23279232,1059734,chester mental health center,rent,50000.0
+2.0,0.19806622,1065110,fed govt-environmental protection agency,mortgage,208000.0
+2.0,0.17535053,1047987,vw of orchard park,mortgage,35004.0
+10.0,0.24059466,1065104,industrial design and contruccion,own,85000.0
+1.0,0.167101,1065103,chevron station,rent,32000.0
+10.0,0.26618344,1065254,tech data corp,mortgage,116400.0
+9.0,0.25263914,1064873,city of mattoon,mortgage,40000.0
+2.0,0.18076535,1065244,jim kearney- state farm,rent,34000.0
+10.0,0.27666733,1064969,walgreen co,mortgage,73000.0
+10.0,0.27805415,1059620,firestone complete auto care,rent,57200.0
+1.0,0.186116,1032978,black and veatch,mortgage,114000.0
+10.0,0.31922513,1065234,giorgio  armani,mortgage,90000.0
+10.0,0.246836,1064958,us army,mortgage,54000.0
+5.0,0.15928437,1065196,grey goose restaurant,rent,35000.0
+10.0,0.16059822,1065199,cardinal logistics,rent,56000.0
+4.0,0.1597254,1065195,regal cinemas,rent,35000.0
+10.0,0.21130385,1065020,areres bais yaakov,mortgage,40000.0
+10.0,0.24705523,1065016,us army corps of engineers,own,59000.0
+10.0,0.16170682,1064924,united states air force,rent,48000.0
+8.0,0.22039196,1064940,placer county,own,85000.0
+10.0,0.30454335,1064932,total document solutions inc.,mortgage,70000.0
+4.0,0.15801506,1062248,grand wailea,rent,35000.0
+10.0,0.28908566,1064985,state of nc its,mortgage,91000.0
+9.0,0.32505968,1064926,m.s.c.z. inc earthwize recycling,mortgage,30000.0
+4.0,0.23768513,1064908,st catherine of siena,rent,45000.0
+1.0,0.17154871,1059118,medivantix technologies,rent,55000.0
+10.0,0.1997214,1064897,at and t,rent,53004.0
+10.0,0.23281641,1064754,san francisco public library,rent,60000.0
+8.0,0.18380834,1060082,chaffey joint union high school district,own,82000.0
+10.0,0.27294442,1064736,postal service,rent,53000.0
+10.0,0.20203924,1064727,wells fargo,mortgage,35360.0
+10.0,0.41608372,1042668,u.s. postal service,rent,54000.0
+10.0,0.20525019,1064862,emeroson animal hospital,rent,65000.0
+10.0,0.23618782,1064711,ams design inc.,rent,65000.0
+6.0,0.21859159,1032875,morongo band of mission indians,own,28800.0
+1.0,0.1772449,1064830,ohio attorney general,rent,42000.0
+3.0,0.20055388,1064681,mish mash inc,rent,36000.0
+1.0,0.17564788,1064383,simms metal management,rent,40000.0
+10.0,0.19136205,1064675,halperin lyman llc,rent,50000.0
+10.0,0.19112118,1064666,thomas wirig doll,rent,52000.0
+10.0,0.29799443,1064639,mcdean,mortgage,85000.0
+3.0,0.40907308,1064636,sterling savings bank,rent,32000.0
+10.0,0.25763583,1064805,carrollton school,own,75000.0
+9.0,0.27689636,1064635,swiss re holding corporation of america,rent,80000.0
+10.0,0.22609223,1064793,arizona department of economic security,mortgage,40246.0
+3.0,0.26535392,1056865,pkm panel systems corp.,own,30000.0
+1.0,0.2804012,1064783,pbm&m,rent,36000.0
+10.0,0.19907758,1064623,ecr inc,rent,60000.0
+3.0,0.39353073,1064792,techmd,rent,31200.0
+8.0,0.15981448,1062701,sysco eastern maryland,rent,90000.0
+1.0,0.17327087,1064781,columbia daily tribune,rent,40000.0
+3.0,0.196716,1064774,dupont,rent,90000.0
+10.0,0.1606586,1053765,united states air force,mortgage,105000.0
+1.0,0.2333551,1064608,fidelity investments,rent,30084.0
+10.0,0.22660172,1064589,teltow contracting,mortgage,36000.0
+4.0,0.26431355,1064558,gladding & michel inc.,rent,67000.0
+10.0,0.31482646,1064585,"cdc builders, inc.",mortgage,63000.0
+2.0,0.21653141,1064548,straight line logistics,rent,276000.0
+3.0,0.16498433,1064462,smartsips llc,rent,26400.0
+10.0,0.34939826,1064582,,rent,24000.0
+10.0,0.20897682,1064579,santa rosa county school board,mortgage,68400.0
+1.0,0.47381386,1046511,multiband,rent,29120.0
+1.0,0.38824448,1029191,multiband,rent,29120.0
+10.0,0.31900555,1064527,clark county school district,mortgage,89122.0
+10.0,0.32921794,1064567,lifecell,mortgage,54000.0
+5.0,0.19768776,1064500,arkansas highway & transportation,mortgage,30000.0
+4.0,0.16335365,1063899,rudy's barbershop,mortgage,30000.0
+10.0,0.32942104,1057598,st. raphael's hospital,rent,50000.0
+1.0,0.22906326,1052002,bethel public schools,mortgage,92000.0
+10.0,0.50448334,1064323,u.s coast guard,mortgage,100500.0
+1.0,0.16547652,1064317,hopland shokawah casino,rent,40000.0
+10.0,0.27086508,1064471,central florida testing laboratories,mortgage,47000.0
+3.0,0.19665557,1060374,dei services corp a kratos co,mortgage,68000.0
+8.0,0.31490925,1064452,department of defense,mortgage,95000.0
+1.0,0.17645578,1064453,jpmorgan chase,rent,39600.0
+3.0,0.40859717,1064284,the home depot,own,30000.0
+3.0,0.28510356,1063081,duro bag,rent,30000.0
+2.0,0.28396702,1064251,willowood care center,rent,17000.0
+3.0,0.17754805,1064407,reading site,rent,42000.0
+7.0,0.39229098,1035800,macy's,rent,75000.0
+5.0,0.25234762,1063678,david dussault plumbing&heating,rent,42000.0
+3.0,0.2810697,1059751,finch paper,mortgage,27000.0
+10.0,0.34556872,1064386,lockheed martin,mortgage,130000.0
+5.0,0.22202955,1055800,seattle cancer care alliance,mortgage,46000.0
+10.0,0.3257478,1064221,wwts,mortgage,80000.0
+4.0,0.28363383,1064210,qualcomm,mortgage,45000.0
+10.0,0.20753585,1064209,citco fund services,rent,72500.0
+10.0,0.33259502,1064366,,rent,18408.0
+3.0,0.23711905,1064216,mineral wells isd,rent,30000.0
+10.0,0.15802644,1064150,costco pharmacy,rent,50000.0
+10.0,0.2212921,1056864,jp morgan chase,rent,75000.0
+10.0,0.24034245,1064146,m and t bank,mortgage,65000.0
+10.0,0.31993723,1064183,northstar fire protection,mortgage,65000.0
+10.0,0.1910798,1064185,borgata hotel and casino,mortgage,120000.0
+10.0,0.1865676,1064126,paradise locker meats,mortgage,42500.0
+1.0,0.24491222,1029473,travelers insurance,mortgage,75000.0
+8.0,0.28501794,1057239,"skanska usa civil west, inc",rent,195000.0
+10.0,0.21640001,1064128,department of veterans affairs,rent,54990.0
+1.0,0.24523194,1063949,di-matrix,rent,40000.0
+10.0,0.24199206,1064166,providence health network,mortgage,137000.0
+10.0,0.23531827,1064133,us postal service,rent,60000.0
+3.0,0.41350588,1064094,miguel rodriguez agency,rent,30120.0
+10.0,0.2795136,1063505,,rent,46000.0
+8.0,0.28493157,1063528,merrill lynch,mortgage,135000.0
+3.0,0.299061,1063912,,mortgage,31500.0
+10.0,0.23992574,1064082,united airlines,rent,65000.0
+10.0,0.22890171,1063892,"fortress analytics, inc.",mortgage,78000.0
+10.0,0.21989954,1064061,tampa bay rays baseball,mortgage,60000.0
+10.0,0.1422806,1063876,associated fresh market,rent,48000.0
+1.0,0.3084939,1042841,small wonders big ideas family,rent,25000.0
+10.0,0.22618204,1063864,"park west landscape, inc.",mortgage,82000.0
+10.0,0.39159295,1064051,at&t,mortgage,82000.0
+10.0,0.25931248,1063847,georgia pacific of  muskogee,mortgage,42000.0
+3.0,0.3168016,1062833,salter labs,rent,27600.0
+5.0,0.21354824,1062032,"herdman, summers, and george, llp",mortgage,38000.0
+4.0,0.21723248,1063843,national bank of california,rent,35000.0
+10.0,0.3192383,1063828,millennium biltmore hotel,own,33000.0
+10.0,0.39549363,1064006,walgreens,mortgage,52800.0
+10.0,0.4185382,1063729,walmart,mortgage,40900.0
+10.0,0.33544877,1062625,"l. robert kimball & assoc,inc.",rent,73882.0
+10.0,0.17027971,1062070,california pizza kitchen,mortgage,36000.0
+10.0,0.31610978,1063964,california department of corrections,mortgage,130000.0
+10.0,0.4020965,1063804,bmw manufacturing,mortgage,57200.0
+5.0,0.31311148,1063751,navfac/naval station newport,rent,51871.0
+2.0,0.3419649,1063982,north coast ag systems,own,15000.0
+9.0,0.28829458,1063972,u.s. department of veteran affairs,mortgage,70197.0
+10.0,0.1953179,1063785,lorain county common pleas court,rent,47000.0
+9.0,0.29168588,1063788,physicians surgery center of tempe,rent,43000.0
+10.0,0.33558923,1063485,gentiva health services,mortgage,120000.0
+10.0,0.38164285,1063781,adp,mortgage,86004.0
+10.0,0.39134583,1057766,ericsson,mortgage,75000.0
+1.0,0.16215707,1063778,bentall kennedy,rent,110000.0
+3.0,0.27897567,1062818,cardinal logistics,mortgage,80000.0
+10.0,0.22158174,1042037,nasoft usa,rent,44000.0
+10.0,0.23737676,1063518,us air force,mortgage,51600.0
+1.0,0.20352288,1063515,fairmont hotel,rent,38500.0
+1.0,0.17271137,1063524,beckman coulter,rent,75000.0
+10.0,0.38781044,1063519,applied industrialtechnoliges,mortgage,37320.0
+10.0,0.32850778,1063521,,rent,55000.0
+2.0,0.2481011,984879,cisco system inc.,rent,100000.0
+10.0,0.3956998,1063509,colorado department of public safety,mortgage,70000.0
+3.0,0.21284947,1063693,macys,rent,68000.0
+10.0,0.37769616,1063700,catholic healthcare west,mortgage,66000.0
+8.0,0.17021744,1056934,jpmorgan chase,rent,85000.0
+1.0,0.18141621,1063246,chase bank,rent,83004.0
+1.0,0.23810495,1057424,"gugino & mortimer, plc",rent,51000.0
+10.0,0.22126248,1063680,contractor's cargo,rent,55000.0
+10.0,0.35555694,1063679,bank of america,mortgage,47000.0
+3.0,0.24735315,1063034,companion hospice,rent,86000.0
+10.0,0.3980755,1063448,regent care center,own,48000.0
+10.0,0.29070717,1063431,,rent,49000.0
+10.0,0.23426168,1060804,roth marz partnership,mortgage,85000.0
+5.0,0.16615182,1027771,little rock convention & visitors bureau,mortgage,50000.0
+10.0,0.14601585,1063653,hudson national golf club,rent,105000.0
+10.0,0.17784294,1063421,st. johnland,rent,51204.0
+10.0,0.19637243,1062855,3 mile harbor boatyard,rent,42996.0
+10.0,0.2707043,1062490,,rent,60000.0
+10.0,0.37675026,1063626,the community college of baltimore count,mortgage,85000.0
+3.0,0.23398739,1063407,everest entertainment,mortgage,120000.0
+10.0,0.3848617,1063609,special programming for achievement netw,own,62691.0
+10.0,0.25375015,1063602,akzo nobel,mortgage,36000.0
+10.0,0.2545409,1063393,the crexent business centers,own,85000.0
+10.0,0.1652581,1063388,pasadena city college,rent,49668.0
+2.0,0.17888053,1063582,harrah's resort,rent,30000.0
+10.0,0.2956595,988402,cnmi government,own,40000.0
+10.0,0.3384676,1063564,kraft foods,mortgage,40000.0
+10.0,0.22818443,1063121,weiss memorial hospital,mortgage,100000.0
+10.0,0.17806844,1063275,"j. chapman inspections, inc.",rent,56312.0
+10.0,0.26837245,1057756,us postal service,rent,54011.0
+10.0,0.23567149,1059960,bank of america,rent,49110.32
+3.0,0.21514389,1059525,hawaiian airlines,rent,75000.0
+8.0,0.52290213,1062577,mckinstry co.,mortgage,95000.0
+3.0,0.26510257,1053188,uw healthpartners,rent,80000.0
+10.0,0.19419008,1063098,pala casino and resort,mortgage,55000.0
+8.0,0.31614542,1063238,herson's kia,rent,90000.0
+3.0,0.18948843,1062043,ourisma fairfax toyota,rent,68500.0
+4.0,0.30739698,1063228,cloudmark,rent,100000.0
+10.0,0.26640242,1039993,bluecross blueshield of tn,mortgage,72000.0
+6.0,0.16362734,1063197,good samaritan hospital,rent,70000.0
+1.0,0.16048753,1063069,showboat casino,rent,37000.0
+10.0,0.22495602,1063062,simmons first national.com,own,75000.0
+1.0,0.20709199,1063199,us bank,mortgage,75000.0
+10.0,0.15763192,1063187,harrahs las vegas,rent,39000.0
+10.0,0.23563649,1063040,chase investments services corp.,rent,60000.0
+10.0,0.19368953,1063020,seminole hard rock,rent,68000.0
+10.0,0.27154127,1062929,bmw of murray,mortgage,110000.0
+1.0,0.17359124,1063003,lawrence hospital,rent,40000.0
+3.0,0.21070999,1063001,tian shan trading,own,31000.0
+10.0,0.28601205,1062997,hudson hotel,rent,60000.0
+3.0,0.18578675,1061315,kaiser permanente,rent,43000.0
+1.0,0.2246092,1062808,nihfcu,rent,42000.0
+1.0,0.24630484,1062918,publix,rent,30000.0
+10.0,0.18926692,1062983,bay area women's care,mortgage,50000.0
+1.0,0.1401492,1061530,superhero graphics,mortgage,39396.0
+7.0,0.49555025,1035958,dst inc,own,98000.0
+10.0,0.23019475,1062894,saint francis health system,rent,62500.0
+10.0,0.15886642,1062895,waterstone mortgage corp.,mortgage,95000.0
+4.0,0.21500865,1062976,newell rubbermaid inc,rent,45000.0
+10.0,0.19314304,1061972,lakeshore,rent,32400.0
+10.0,0.31033036,1062897,,mortgage,37800.0
+10.0,0.15494396,1062857,drexel university,rent,50000.0
+10.0,0.4312459,1059828,rallye bmw,mortgage,114996.0
+10.0,0.24765685,1059486,carefusion,rent,54400.0
+10.0,0.17794614,1062887,ibm,mortgage,72800.0
+1.0,0.16256833,1062851,dow networks,rent,42500.0
+10.0,0.2536586,1062756,garren new york,rent,61000.0
+3.0,0.2959214,1062844,tr furniture,rent,28000.0
+4.0,0.20826261,1062753,oppenheimer & co inc,own,120000.0
+8.0,0.49004626,1062873,pulte homes,mortgage,96000.0
+3.0,0.2501399,1062860,volt,rent,83200.0
+8.0,0.21214372,1062738,"southwest pumps and filters, inc.",rent,45000.0
+5.0,0.15542914,1062864,department of defense,rent,68809.0
+3.0,0.2527979,1062734,myrvpartsplace.com,rent,75000.0
+1.0,0.16663384,1052370,miller & wright architects,rent,52000.0
+10.0,0.23465672,1058564,together we grow,rent,57600.0
+4.0,0.19901703,1062584,exact software north america,rent,48500.0
+4.0,0.19469047,1062253,ultimo software solutions inc,rent,95000.0
+10.0,0.21970694,1062795,navteq,rent,58000.0
+10.0,0.32755876,1062614,,mortgage,24000.0
+10.0,0.16354175,1061378,tektonics design group,mortgage,58000.0
+10.0,0.2339775,1062781,,mortgage,70000.0
+10.0,0.29504994,1023158,mercury computer sys,mortgage,104000.0
+4.0,0.22837609,1062654,aeg live,rent,35000.0
+10.0,0.24135558,1062665,bg manufacturing,rent,53000.0
+3.0,0.15154627,1062555,vogue beauty salon,rent,28000.0
+10.0,0.2394784,1062606,north fork holdings,mortgage,118000.0
+10.0,0.16030659,1062643,sunday night life,rent,40000.0
+10.0,0.27340823,1062535,,mortgage,42000.0
+10.0,0.3455707,1062536,port of everett,mortgage,65000.0
+1.0,0.26530486,765927,hoel palomar,rent,25000.0
+1.0,0.23318948,1031451,kaiser permanente,mortgage,36000.0
+4.0,0.19285986,1062612,kwikmen trucking,rent,45000.0
+1.0,0.34020132,1062510,comcast,mortgage,231252.0
+10.0,0.22671477,1062508,dune management,rent,65000.0
+7.0,0.3661765,1036838,,mortgage,32000.0
+8.0,0.5122087,1062478,marist school,mortgage,84996.0
+6.0,0.20374285,1055974,nw portland area indian health board,rent,66000.0
+2.0,0.17372842,1062462,heritage properties inc.,mortgage,92000.0
+6.0,0.20304471,1062458,owens illinois,rent,70000.0
+10.0,0.2247329,1062454,allied waste,mortgage,49000.0
+8.0,0.46988696,1060762,miami-dade county,mortgage,76896.0
+2.0,0.3892288,1062564,self employed,rent,24000.0
+10.0,0.20908606,1061570,harmony school of excellence,rent,60000.0
+10.0,0.22876827,1062418,,mortgage,120000.0
+10.0,0.17392503,1062413,austin powder company,mortgage,57000.0
+1.0,0.21569473,1062330,bci,mortgage,80000.0
+6.0,0.26736167,1062414,clarks co. north america,mortgage,85000.0
+10.0,0.4450087,1060966,inspectorate,own,140000.0
+10.0,0.16428843,1062401,daja ventures,own,36000.0
+1.0,0.1815321,1057454,jpmorgan chase,rent,70000.0
+4.0,0.2743784,1062179,"manhattan center studios, inc.",rent,51360.0
+2.0,0.2476479,1062293,f5 networks inc,rent,163000.0
+10.0,0.16772744,1062384,portland public schools,mortgage,59393.0
+4.0,0.16526383,1031348,h. lee moffitt cancer center,mortgage,65000.0
+3.0,0.42645192,1062268,state of texas,rent,29772.96
+1.0,0.2733941,1062161,target,own,12996.0
+1.0,0.2439901,1061409,univeristy of phoenix,own,44475.0
+10.0,0.40124276,1061705,goodyear,mortgage,88000.0
+4.0,0.17454527,1062146,investigroup,rent,85000.0
+10.0,0.1792566,1058699,easter seals north ga,mortgage,36000.0
+3.0,0.18474653,1062150,juniper networks,rent,117000.0
+2.0,0.2618748,1062257,grace & growth family services,rent,160000.0
+1.0,0.1873779,1061420,bethesda memorial hospital,rent,80000.0
+3.0,0.33428234,1062250,fedex office,rent,28000.0
+5.0,0.2120619,1020855,henkel corporation,rent,48000.0
+2.0,0.2268549,997521,state of michigan,mortgage,60000.0
+10.0,0.18835467,1058624,university of central florida,rent,40000.0
+10.0,0.15813687,1062232,georgia institute of technology,rent,45500.0
+6.0,0.2843619,1062235,,mortgage,156000.0
+1.0,0.19584922,1060429,premier salons,rent,40000.0
+10.0,0.21716568,1062102,village of hawthorn woods,mortgage,96000.0
+10.0,0.4009373,1060630,shell oil,mortgage,80000.0
+6.0,0.27872747,1062192,usps,mortgage,110000.0
+10.0,0.20077284,1059016,university health services,rent,59400.0
+10.0,0.4208409,1056174,visa inc,mortgage,106000.0
+10.0,0.17004752,1062045,cablevision,rent,36000.0
+1.0,0.18012212,1059395,tylin international,rent,51000.0
+2.0,0.34589866,1062012,european service at home,rent,25000.0
+4.0,0.14524621,1061941,let's insure,rent,35000.0
+1.0,0.36624706,1031266,90 miles cuban cafe,rent,33000.0
+10.0,0.21925613,1061975,mercy san juan medical center,mortgage,93000.0
+6.0,0.28195727,1061914,jpmorgan chase,rent,85000.0
+1.0,0.15388487,1061750,moss & company,rent,50000.0
+2.0,0.21260351,1061741,garden of eden,rent,41000.0
+10.0,0.1534763,1061747,smashbox cosmetics,rent,50000.0
+1.0,0.33654916,1040188,university,rent,30000.0
+5.0,0.23265366,1057749,may trucking,rent,57000.0
+1.0,0.16247231,1061721,giant eagle,rent,110000.0
+7.0,0.17209795,1061869,hammer creative,rent,50132.0
+6.0,0.18833339,1060650,state of north carolina,mortgage,62500.0
+10.0,0.21535137,1059701,union pacific railroad,rent,60000.0
+1.0,0.2897595,1061842,medicis,rent,130000.0
+10.0,0.29580206,1061837,applied development companies,rent,60000.0
+5.0,0.29389057,1057272,snow college,mortgage,65000.0
+3.0,0.2734929,1061675,mckesson corporation,mortgage,67735.0
+10.0,0.19477874,1061661,ultratech inc,rent,47800.0
+1.0,0.31223908,1061656,sdgin,mortgage,99600.0
+10.0,0.16885523,1061776,western wyoming community college,mortgage,54000.0
+10.0,0.16068548,1061767,studio instrument rentals,rent,49000.0
+1.0,0.33913285,1052746,hyatt hotel,rent,33996.0
+10.0,0.33230916,1061643,u.s.postal service,rent,65000.0
+4.0,0.26458815,1061785,us navy,rent,44160.0
+1.0,0.18206143,1061623,costco,rent,32000.0
+1.0,0.22430508,1030795,northwestern mutual,mortgage,94500.0
+3.0,0.27462882,1061598,jc penney,rent,19498.0
+1.0,0.31064764,1061772,mayo primary care center,rent,30000.0
+8.0,0.1646539,1058931,united lighting & electrical group,mortgage,88000.0
+4.0,0.21172675,1061355,staff die cutting llc,rent,45000.0
+1.0,0.28929484,1061593,rescare,rent,37500.0
+10.0,0.19642407,1061581,sarasota memorial hospital,mortgage,89000.0
+4.0,0.19620737,1061583,"guidant group, inc.",rent,120000.0
+4.0,0.15610123,1059572,antico stone,rent,35000.0
+10.0,0.21917556,1053004,washington university st louis,mortgage,50000.0
+1.0,0.16986117,1061496,oswego county opportunities,rent,30000.0
+1.0,0.3067106,1051434,university of minnesota,rent,25279.67
+1.0,0.18384327,1058174,usairways inc.,rent,29000.0
+10.0,0.21142955,1061547,bell and howell,rent,65000.0
+1.0,0.15932985,1061317,east side clinical lab,rent,30000.0
+3.0,0.16435705,1061306,clark county fire dept.,rent,68000.0
+1.0,0.29108113,1061515,indsoft,rent,90000.0
+10.0,0.28136268,1058858,,mortgage,58600.0
+1.0,0.21238503,1051045,united parcel service,own,50000.0
+10.0,0.27562726,1060415,los angeles unified school district,rent,85000.0
+4.0,0.31667176,1061279,oscar inc,rent,45000.0
+7.0,0.16301711,1058942,autism speaks,mortgage,44004.0
+1.0,0.22325835,1042958,carolinas medical center,mortgage,84996.0
+1.0,0.16000977,1061251,artisan digital,rent,33000.0
+5.0,0.3101118,1058015,state of ct dept of corrections/parole,mortgage,60000.0
+1.0,0.2878056,1059858,rove pest control,own,19200.0
+10.0,0.28798875,1061247,pace collision,rent,62000.0
+1.0,0.22490929,1061250,hartz mountain corportaion,rent,38500.0
+3.0,0.1908972,1061245,,rent,68000.0
+1.0,0.35572574,1060411,medical associates of brevard,rent,30000.0
+10.0,0.21357095,1061416,shine electronics inc,rent,50000.0
+2.0,0.2845164,1040053,texas a&m university,rent,23000.0
+10.0,0.30967113,1061227,u.s. army,rent,50400.0
+6.0,0.24348092,1061403,kaiser permanente,rent,110000.0
+1.0,0.21319345,1061413,bisso marine,rent,40000.0
+10.0,0.26880023,1061202,new york state insurance fund,rent,83954.0
+10.0,0.2291375,1061204,yh america inc.,rent,35000.0
+10.0,0.21653105,1061380,sunnyside farms,rent,60000.0
+1.0,0.23664898,1061193,banfield pet hospital,rent,40000.0
+10.0,0.18306059,1051953,adams county human services department,rent,42336.0
+10.0,0.30261356,1061194,,own,41100.0
+1.0,0.20643541,1060945,axa assistance,rent,92000.0
+2.0,0.16891867,1057719,global profit technologies inc.,rent,75000.0
+10.0,0.43363172,1059906,state of ca.,rent,90000.0
+4.0,0.22381085,1061383,forsyth county sheriff's office,mortgage,45000.0
+8.0,0.20800616,1050511,department of defense,rent,48000.0
+6.0,0.22845922,1061175,cui inc,mortgage,110000.0
+1.0,0.34239984,1061122,nueces county dept. human services,rent,30600.0
+4.0,0.28452483,1061095,hms host,rent,69000.0
+4.0,0.23189564,1061164,david sparks dds,rent,45000.0
+1.0,0.26831016,1060436,lowes,rent,27500.0
+10.0,0.42086396,1061133,curry auto,mortgage,150500.0
+1.0,0.16972801,1060855,target corporation,rent,32000.0
+10.0,0.21634153,1058477,adams and associates,rent,37500.0
+1.0,0.29391238,1060995,hsa-uwc,rent,60000.0
+10.0,0.17517176,1061135,eq cargo and trading corp,rent,33000.0
+10.0,0.26500735,1059939,medical center of center of central ga,rent,70000.0
+9.0,0.19960277,1060951,"kofsky, hartman & weinger, pa",rent,75000.0
+1.0,0.381237,1046507,child's day,rent,16800.0
+1.0,0.28438684,1060880,university of chicago,rent,38000.0
+2.0,0.22043954,1060934,chrysalis inc.,own,35000.0
+8.0,0.2499075,1061128,appsense inc.,mortgage,95000.0
+10.0,0.24127035,1061130,gannett publishing services,mortgage,77400.0
+1.0,0.21882907,1061126,"crowe horwath, llp",rent,61000.0
+10.0,0.23305625,1056057,queens college cuny,rent,70000.0
+10.0,0.2794503,1060895,johns hopkins / applied physics lab,rent,67000.0
+1.0,0.31826255,1061106,cargill,mortgage,90000.0
+10.0,0.1925163,1060925,ping identity,own,140000.0
+10.0,0.2719106,1045240,arc of rockland,own,55000.0
+1.0,0.28677073,1024951,the windmill,rent,32400.0
+4.0,0.16537434,1061070,federal bureau of prisons,rent,50000.0
+6.0,0.14559275,1061060,general motors,mortgage,70000.0
+10.0,0.32121927,1055190,,own,35000.0
+10.0,0.33519465,1060848,,mortgage,46212.0
+2.0,0.27356827,1053622,,rent,43000.0
+10.0,0.25978833,1060865,daimler trucks north america,mortgage,140000.0
+10.0,0.3020269,1051018,army national guard,mortgage,115000.0
+1.0,0.19102694,1059259,6th avenue outfitters,rent,45000.0
+10.0,0.17162703,1060853,city of anaheim,rent,95000.0
+10.0,0.19820899,1060831,blank rome llp,mortgage,235000.0
+10.0,0.20562467,1058228,peak security inc,rent,36000.0
+1.0,0.23675379,1060841,the bridge assisted living,rent,26000.0
+3.0,0.33441257,1056914,northwestern mutual,rent,80000.0
+10.0,0.22951713,1060794,converse,rent,50000.0
+10.0,0.28894162,1061003,new york roofing co,rent,55000.0
+5.0,0.19250037,1061008,blue cross blue shield of massachusetts,mortgage,55000.0
+10.0,0.2160155,1060779,new york city department of correction,rent,64424.0
+10.0,0.2956929,1060993,burger bros/burger king franchise,rent,56000.0
+1.0,0.17631929,1060553,safco capital corporation,rent,30000.0
+10.0,0.18011066,1058200,internal revenue service,mortgage,111740.0
+10.0,0.1637268,1060544,mens  wearhouse,rent,67500.0
+1.0,0.27719638,1060979,the m&a advisor,rent,41000.0
+10.0,0.26881266,1060698,"antigen express inc.,",rent,120000.0
+10.0,0.17333962,1060970,las nenas fashion,rent,30000.0
+10.0,0.19349872,1060760,hartford hospital,rent,41500.0
+10.0,0.25957727,1060753,exclusive autoline inc,rent,60000.0
+10.0,0.4386452,1060559,bank of america,mortgage,75000.0
+10.0,0.25282082,1060696,diocese of florida,rent,80000.0
+10.0,0.20124075,1060735,calvary assembly of god,rent,42000.0
+10.0,0.1650824,1060720,fletcher's plumbing & contracting inc.,mortgage,41600.0
+10.0,0.23087323,1060558,bergen family center,rent,48000.0
+8.0,0.44927868,1060731,morganam@t,mortgage,50000.0
+10.0,0.18758121,1060536,rupp baase pfalzgraf cunningham & coppol,rent,70000.0
+2.0,0.30821675,1060721,prime inc,rent,53000.0
+10.0,0.18753244,1060527,exsilen usa,mortgage,65000.0
+1.0,0.20454213,1060714,gannett healthcare group,rent,85000.0
+10.0,0.3131614,1060508,bottomley distributing,rent,55000.0
+10.0,0.37798,1059582,st. vincent hospital,rent,36000.0
+1.0,0.3377544,1060481,kendall regional medical center,rent,26000.0
+6.0,0.24950193,1052346,st.bernard hospital,rent,70000.0
+10.0,0.20501643,1054397,ny dept of sanitation,rent,80000.0
+10.0,0.1589348,1055294,porsche cars north america,mortgage,80000.0
+10.0,0.3071561,1060485,,mortgage,45696.0
+2.0,0.19443308,1060697,credit suisse,mortgage,100000.0
+10.0,0.21609542,1060670,altria,rent,62000.0
+10.0,0.17571893,1060452,crothall health groups,rent,50000.0
+1.0,0.2522179,1051471,golden living summitt,own,66000.0
+10.0,0.3687561,1059954,at&t,own,80000.0
+10.0,0.26024386,1059310,hines interests lp,mortgage,100000.0
+1.0,0.41132873,1055282,ibm,mortgage,123000.0
+10.0,0.2335979,1060631,harvard asia center,rent,70000.0
+10.0,0.28244278,1058486,central school district 301,mortgage,60000.0
+10.0,0.28460798,1060427,cvs pharmacy,mortgage,150000.0
+3.0,0.3260453,1060418,may advertising,rent,80000.0
+1.0,0.20904621,1060605,gilchrist county property appraiser,rent,31000.0
+8.0,0.21566889,1060597,vanderbuit mtg,mortgage,90000.0
+10.0,0.22289434,1060600,hand surgery & rehabilitation center,rent,61600.0
+10.0,0.4237399,1053763,"16th mp bde, u.s. army",mortgage,71316.0
+10.0,0.18337652,1060581,miami herald media company,rent,42000.0
+1.0,0.14575593,1060372,wheeler clinic,rent,34000.0
+10.0,0.23230231,1060371,walmart,rent,36000.0
+10.0,0.2529509,1060369,ford atlantic fastener corporation,rent,65000.0
+10.0,0.20425509,1060365,pizza hut,rent,35000.0
+1.0,0.17785832,1060086,rodney lough galleries,rent,50000.0
+10.0,0.18223327,1058493,sumisho global logisitics,rent,62004.0
+3.0,0.20773876,1059978,usps,rent,74000.0
+10.0,0.26605412,1059252,,mortgage,42000.0
+10.0,0.17206404,1060167,photonics industries intl,own,48000.0
+3.0,0.23091531,1059974,cox communications,rent,65000.0
+2.0,0.3486587,1060046,washington state university,rent,15360.0
+10.0,0.2934486,1060030,liberty mutual ins,mortgage,61000.0
+1.0,0.20541996,1059948,buddy media,rent,83000.0
+10.0,0.20560314,1060036,valleycare health system,mortgage,120000.0
+1.0,0.20812018,1055631,power nissan chandler,rent,106000.0
+10.0,0.20352894,1060019,gap inc,rent,42000.0
+1.0,0.3116007,1053454,apria healthcare,mortgage,30000.0
+10.0,0.24004339,1059930,sea world san antonio,rent,32000.0
+1.0,0.23870765,1060004,rchn,rent,72100.0
+10.0,0.22451116,1060015,fch enterpise,rent,58000.0
+3.0,0.1890484,1059936,oec freight,rent,40000.0
+1.0,0.21349391,1059288,tory burch,rent,75000.0
+1.0,0.15032329,1052230,belcan corp,rent,48880.0
+2.0,0.23708718,1059996,town of douglas,rent,48000.0
+10.0,0.13322948,1059887,tricities chaplaincy,mortgage,40000.0
+7.0,0.34112725,1010310,vitacost.com,mortgage,110000.0
+4.0,0.20677735,1059889,la costa resort and spa,mortgage,60000.0
+10.0,0.22334139,1059736,smith & warren,rent,65000.0
+10.0,0.27186206,1059870,arizona beverage llc,mortgage,50000.0
+10.0,0.28172985,1059874,riverside county,rent,55000.0
+10.0,0.15043299,1032863,"wells fargo insurance services usa, inc.",mortgage,63000.0
+10.0,0.37636817,1054178,raytheon,mortgage,133224.0
+4.0,0.14066528,1059843,inviting company,rent,35100.0
+6.0,0.21187106,1057243,salisbury behavioral health inc.,rent,38000.0
+6.0,0.16818745,1059785,braemac ca,rent,38000.0
+3.0,0.2138121,1059698,uc davis,rent,41000.0
+10.0,0.21822758,1059704,hoffman building technologies,mortgage,108000.0
+10.0,0.2453525,1059801,state of maryland,rent,43000.0
+4.0,0.18247335,1059605,action trucking,rent,45000.0
+1.0,0.2543509,1058085,aarons sales and lease,rent,23000.0
+10.0,0.16345236,1059157,city of excelsior springs,mortgage,47532.0
+1.0,0.37186542,1059627,salon evamichelle,rent,26000.0
+1.0,0.24449226,1023566,actelion pharmaceuticals us inc,mortgage,150000.0
+10.0,0.2046949,1059657,city of tomah,rent,32000.0
+3.0,0.2104134,1059639,aerotek scientific,rent,55000.0
+4.0,0.20697202,1059571,"b drafting, inc.",rent,35000.0
+3.0,0.24500638,1059623,self-employed,own,75000.0
+5.0,0.29878575,1059629,texas health-presbyterian hospital,mortgage,74000.0
+5.0,0.1972201,1057474,hayes intermediate school,mortgage,50000.0
+1.0,0.2260741,1059603,bank of oklahoma,own,30000.0
+1.0,0.28123415,1059522,coldwell banker residential brokerage,rent,37000.0
+3.0,0.32481584,1059529,sony electronics,rent,105000.0
+10.0,0.20401847,1059502,california department of public health,rent,42000.0
+10.0,0.24027397,1058733,sharp memmorial hospital,own,80000.0
+10.0,0.19945797,1059497,sandestin beach hilton,mortgage,35000.0
+1.0,0.17338115,1059433,big five sporting goods,own,23000.0
+7.0,0.23480538,1059469,sembower mikesell inc,rent,50000.0
+10.0,0.21087644,1048973,usaf,rent,36000.0
+10.0,0.15137555,1059444,hilton head automotive llc,mortgage,60000.0
+1.0,0.19309357,1059311,jim hughes plumbing and heating,rent,40000.0
+1.0,0.22060077,1059333,commerce lexington,rent,38200.0
+10.0,0.20579018,1055994,citi cards,rent,37000.0
+10.0,0.29551873,1059386,metro,rent,56000.0
+1.0,0.15263364,1059289,action link,rent,38000.0
+10.0,0.22064622,1058552,lpc,rent,43000.0
+10.0,0.29803455,1059461,sparkpeople,mortgage,60000.0
+3.0,0.20298253,1059312,motion point,rent,46000.0
+10.0,0.2353943,1058031,charles scwab,mortgage,105000.0
+1.0,0.3007078,1059447,pimco,rent,107000.0
+4.0,0.29552376,1059319,ernst & young llp,mortgage,235000.0
+4.0,0.15480952,1059274,dcp midstream,mortgage,70000.0
+3.0,0.20349628,1059291,ideal housekeeping,rent,78000.0
+1.0,0.26833203,1059280,camden clark medical center,rent,24000.0
+4.0,0.15325575,1059284,morgan stanley,mortgage,51750.0
+10.0,0.14061348,1059362,target logistics,mortgage,57600.0
+1.0,0.30931944,1059262,u.s. house of representatives,rent,50000.0
+1.0,0.18749851,1059409,rexnord industries,rent,55000.0
+2.0,0.15704295,1057384,pierpont securities,rent,120000.0
+10.0,0.281307,1058892,green choice living,own,108000.0
+10.0,0.20635828,1059282,the bowery hotel,rent,40000.0
+1.0,0.25180793,1052360,rml specialty hospital hinsdale,rent,97600.0
+10.0,0.16721937,1059251,social security adminstration,mortgage,70800.0
+3.0,0.1749349,1059227,houston isd,rent,45000.0
+10.0,0.26448962,1059236,,rent,60000.0
+3.0,0.24852286,1042427,i-sys corporation,mortgage,88000.0
+10.0,0.40212032,1059210,john deere,mortgage,74000.0
+1.0,0.19094402,1059174,department of homeland security,rent,91500.0
+1.0,0.16403806,1057064,four seasons association,rent,42500.0
+1.0,0.17420472,1059199,ledic management group,rent,45000.0
+8.0,0.17745288,1048482,waste management,rent,75000.0
+10.0,0.22897123,1058946,newark public schools,mortgage,103000.0
+2.0,0.23681945,1059186,,rent,42000.0
+10.0,0.23515344,1059120,nyc deparment of corrections,mortgage,90000.0
+1.0,0.15521125,1050101,mit lincoln labs,mortgage,63000.0
+10.0,0.36766714,1059128,,mortgage,25000.0
+10.0,0.21448989,1058958,mandarin oriental hotel group,rent,35000.0
+1.0,0.25501177,1032427,goodneighbor assisting living,rent,16000.0
+10.0,0.27314758,1058956,,mortgage,53000.0
+1.0,0.17567061,1058959,edge auto rental,rent,110000.0
+4.0,0.1563183,1058952,havertys fyrniture,mortgage,69000.0
+1.0,0.38440627,1055920,drivelines retail merchandiser,rent,16000.0
+4.0,0.16956797,1059103,southrenmultyfood,mortgage,38400.0
+10.0,0.16202658,1059046,mister sparky,mortgage,80000.0
+6.0,0.22737828,1058943,healthcare plus corp.,rent,80952.0
+3.0,0.1454904,1059100,rettew associates,own,65000.0
+10.0,0.17005599,1058926,discovery shutters & shadings,rent,70000.0
+7.0,0.39476925,1034052,,mortgage,175000.0
+5.0,0.17695153,1057403,san gabriel transit inc,rent,34000.0
+1.0,0.25722614,1058924,america's second harvest big bend,rent,35000.0
+10.0,0.2056413,1058885,friedmans home improvement,rent,60000.0
+10.0,0.22880845,1058877,allen clark ficial services llc,rent,35000.0
+10.0,0.16004942,1059041,navigation solutions,own,35000.0
+10.0,0.30875993,1059039,at&t,rent,60000.0
+10.0,0.15728593,1059024,country villa health care novato,own,75000.0
+1.0,0.2860587,1054453,passages hospice,mortgage,66000.0
+1.0,0.16760816,1058814,"cydcor, inc.",rent,77000.0
+3.0,0.20944232,1058830,self,mortgage,62000.0
+10.0,0.24040717,1053112,sport durst millennium automotive group,mortgage,73000.0
+8.0,0.20590721,1058317,first marblehead corporation,mortgage,130000.0
+10.0,0.15756203,1058846,edgewater inn,mortgage,61000.0
+1.0,0.1886729,1058824,coast learning systems,rent,90000.0
+1.0,0.1523483,1058828,wells fargo,own,25000.0
+2.0,0.24608213,1058831,orlando magic,rent,14400.0
+6.0,0.2933769,1052449,pacific university,rent,70000.0
+4.0,0.1947915,1058974,rolf jensen & associates,rent,82500.0
+1.0,0.156168,1058734,dan mcguinness,rent,35000.0
+10.0,0.25718307,1058209,harrison & star,rent,43200.0
+1.0,0.35634887,1058749,tra,mortgage,125000.0
+10.0,0.36094627,1058782,"a. cook associates, inc.",mortgage,80000.0
+3.0,0.23815492,1056831,chesapeake energy,rent,87500.0
+10.0,0.25199527,1054373,abunmdant life christian center,mortgage,22000.0
+10.0,0.23182718,1058744,coastal glass,own,80000.0
+1.0,0.23616098,1047572,unitedhealthcare student resources,mortgage,70000.0
+10.0,0.32004842,1056011,,mortgage,17352.0
+10.0,0.24720724,1058718,msa,rent,63208.0
+2.0,0.26115438,1058792,,rent,48000.0
+6.0,0.1742433,1058556,anchor towing and marine transport,mortgage,45500.0
+4.0,0.17134152,1058407,american public university,mortgage,48000.0
+1.0,0.36643523,1029236,rush warehouse,rent,19200.0
+4.0,0.16820666,1058698,yale university,rent,68000.0
+3.0,0.18315333,1058696,amalgamated general agency,own,35000.0
+10.0,0.48876783,1058411,u.s. air force,mortgage,63000.0
+1.0,0.32070416,1058515,oceanaire seafood room,rent,29406.0
+1.0,0.23265351,1058110,walmart,rent,26004.0
+1.0,0.32736906,1058519,gypsy 05 inc,rent,120000.0
+10.0,0.29677898,1058494,lands' end,mortgage,110000.0
+10.0,0.22639035,1058634,rite aid,rent,34000.0
+10.0,0.29061082,1058483,valcom/necc,rent,26500.0
+6.0,0.2023658,1055678,easy eddies,rent,40000.0
+10.0,0.2296728,1058484,ohio state university,mortgage,88800.0
+1.0,0.18479642,1058615,main street radiology,rent,100000.0
+3.0,0.19060752,1058603,icon parking,rent,45000.0
+1.0,0.20096539,1058625,del friscos,rent,85000.0
+1.0,0.18035027,1058468,coldwell banker pacific properties,rent,36000.0
+10.0,0.24937344,1058440,eli's bread,rent,80000.0
+10.0,0.26282188,1058451,"dr. robert hood, dds",rent,50000.0
+10.0,0.2140084,1058596,rathgibson,rent,75000.0
+8.0,0.2132603,1058578,university of phoenix,mortgage,105000.0
+10.0,0.18232247,1058423,state of calif.in-home suportive service,rent,45408.0
+10.0,0.19074811,1057201,control air,mortgage,72000.0
+3.0,0.2497899,1058396,investor's business daily,rent,67500.0
+10.0,0.25282356,1046641,thinc systems inc,rent,60000.0
+1.0,0.17980544,1053982,verity resins llc,mortgage,65000.0
+10.0,0.19885421,1058372,rg steel,rent,55000.0
+10.0,0.32157472,1051228,,own,34848.0
+1.0,0.17701644,1058368,bluecoat systems,rent,48000.0
+10.0,0.1975435,1058155,lsr,mortgage,55000.0
+10.0,0.17700544,1057701,paragon honda,rent,65000.0
+10.0,0.2717252,1058301,nsabp foundation inc,mortgage,55000.0
+3.0,0.20318025,1058237,opportunity international,mortgage,75000.0
+1.0,0.2690416,1058309,roswell,rent,30000.0
+1.0,0.31942788,1058318,wyoming valley hospital,rent,30000.0
+2.0,0.35759577,1058381,bensamochan and poghosyan,rent,160000.0
+10.0,0.23903605,1058282,global teachers research and resources,mortgage,60000.0
+10.0,0.3197405,1051960,wrenshall public school district #100,mortgage,59000.0
+9.0,0.17867099,1058289,"agri-empresa, llc",mortgage,35000.0
+3.0,0.19410108,1058241,smacna,mortgage,81800.0
+5.0,0.24214825,1058276,aramark sports and entertainment,mortgage,65000.0
+1.0,0.2892795,1058123,"body details, inc.",rent,44400.0
+5.0,0.19691233,1058126,morgan stanley,rent,61500.0
+2.0,0.22204152,1058242,"zila, inc.",mortgage,46000.0
+10.0,0.22486788,1058119,bed bath and beyond,rent,62000.0
+10.0,0.24064289,1058084,carolina east medical center,mortgage,88000.0
+10.0,0.22270228,1058111,holy rosary church,rent,50000.0
+6.0,0.25596002,1053505,venevision international productions,rent,75000.0
+1.0,0.19306757,1058101,mta,mortgage,90000.0
+10.0,0.27611303,1058072,el paso corporation,mortgage,100000.0
+10.0,0.22374105,1058082,jacksonville sheriff's office,mortgage,110000.0
+10.0,0.23028147,1058221,hill's pet nutrion,rent,40000.0
+2.0,0.16080241,1058078,food bank of cny,mortgage,50000.0
+8.0,0.30120495,1058213,us bank,mortgage,88824.0
+10.0,0.26120433,1058059,abbott labs,mortgage,180000.0
+10.0,0.3068955,1058060,,own,40000.0
+10.0,0.14997086,1055436,cathedral prepatory school,rent,50000.0
+6.0,0.2468227,1058186,chenega intergrated systems,rent,40000.0
+10.0,0.29006746,1054438,department of army,mortgage,114054.0
+6.0,0.19533639,1058203,cumulus media,mortgage,70000.0
+10.0,0.29944432,1058042,mifflin county,mortgage,35000.0
+10.0,0.1563073,1058195,eddins electric,mortgage,45000.0
+10.0,0.24433574,1053728,state of colorado,rent,77000.0
+5.0,0.24685457,1058177,blue sky therapy,mortgage,61400.0
+4.0,0.2093205,1054408,hospital of st. raphael,mortgage,76800.0
+10.0,0.16750981,1058173,independence blue cross,rent,80000.0
+1.0,0.18382172,1057996,wells fargo,rent,90000.0
+10.0,0.3065266,1058162,ac linen supply inc.,rent,32000.0
+1.0,0.18621996,1055265,bright house networks,rent,42000.0
+7.0,0.32579443,1018385,,mortgage,24000.0
+1.0,0.25604138,1054294,hhealth services integration,rent,130000.0
+1.0,0.26591834,1057750,audible inc.,rent,35000.0
+6.0,0.19394208,1057923,inc,rent,70000.0
+1.0,0.16230315,1057816,mossy nissan oceanside,rent,67000.0
+1.0,0.22257571,1057900,shop rite supermarkets,rent,31000.0
+5.0,0.16229194,1056770,travel retail concepts,rent,50000.0
+5.0,0.22261916,1057710,heartland hospital,mortgage,145000.0
+1.0,0.18532424,1057323,trefethen farming,rent,66000.0
+8.0,0.15930358,1057878,,rent,100000.0
+10.0,0.24324973,1057726,,rent,60000.0
+10.0,0.24139698,1057720,saint antoine residence,own,40000.0
+10.0,0.2479039,1049053,state farm insurance,rent,45000.0
+10.0,0.4200757,1057448,citigroup,mortgage,103000.0
+1.0,0.38201335,1057669,crowley,rent,137000.0
+10.0,0.2833166,1050535,usda risk management agency,own,103000.0
+3.0,0.25657332,1057674,harris,rent,75000.0
+5.0,0.19776462,1057806,frcs,mortgage,42000.0
+10.0,0.22410157,1057615,all nevada insurance,rent,50000.0
+5.0,0.23842466,1057818,harvard university,own,50000.0
+10.0,0.23229852,1057629,lime energy,own,80004.0
+10.0,0.23025703,1057621,real mex foods,rent,43000.0
+10.0,0.21878326,1057787,jp morgan chase,own,32000.0
+10.0,0.22311604,1057770,regional transportation district,mortgage,85000.0
+5.0,0.23667935,1057275,city national bank,rent,60500.0
+1.0,0.18834253,1057330,cta digital,rent,35000.0
+1.0,0.23025675,1057773,kansas state university,rent,24000.0
