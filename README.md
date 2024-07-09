@@ -57,8 +57,15 @@ Seguindo a orientaçao, nao houve nenhum problema com a importaçao dos dados. O
 Iniciei pela analise preditica, escolhei os dados e fiz um primeiro teste para verificaçao dos dados analisados. Após ˜8 minutos, o Canvas me retornou uma série de dados, os quais nao pude utilizar, pois ficaram desconfigurados,e com uma falha muito grande. Possiveis causas foram as escolhas de opçoes nao adequadas.
 Na segunda tentativa, o modelo estava se comportando bem ,inclusive gerando informaçao, porem houve um erro inesperado e a analise foi interrompida.
 Na terceira tentativa, da mesma forma, o modelo estava sendo gerado e houve uma falha do sistema interrompendo a analise. A acuracidade da informaçao ficou em 5,5%. Tentei fazer o processamento da informaçao, porem da mesma forma houve uma instabilidade do sistema.
+Na quarta tentativa utilizei um banco de dados diferente (um já fornecido pelo próprio canvas) e ele concluiu sem problemas o treinamento.
 
 ## Analise do Modelo
 Em relaçao as 3 primeiras tentativas, nao foi possivel executar nenhuma analise.
+Já na quarta tentativa, gerou uma analise, onde fixei a config employment_lenght e considerei as demais infos automaticamente.
 
 ## Previsao dos dados.
+Nas 3 primeiras tentaitas nao houve nenhum sucesso da previsibilidade.
+Na 4 tentativas, foi possivel fazer alguma previsao baseada do treinamento do modelo, inclusive com a nova base de dados gerada pelo sistema.
+
+Relato que tentei compreender qual era a base dos dados analisados, porem nao consegui tomar nenhuma conclusao.
+Procurarei refazer este treinamento com uma base de dados nova, onde eu conheça a base de dados a ser analisada e farei update do mesmo.
