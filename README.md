@@ -45,3 +45,20 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Obtençao dos resultados atraves do Lab.
+
+## Importaçao dos dados
+Seguindo a orientaçao, nao houve nenhum problema com a importaçao dos dados. O sistema é muit otranquil oe intuitivo quanto ao carregamento e seleçao dos dados. Optei pela escolha do arquivo XXXXXX
+
+## Construir e  Treinar o meu Modelo.
+Iniciei pela analise preditica, escolhei os dados e fiz um primeiro teste para verificaçao dos dados analisados. Após ˜8 minutos, o Canvas me retornou uma série de dados, os quais nao pude utilizar, pois ficaram desconfigurados,e com uma falha muito grande. Possiveis causas foram as escolhas de opçoes nao adequadas.
+Na segunda tentativa, o modelo estava se comportando bem ,inclusive gerando informaçao, porem houve um erro inesperado e a analise foi interrompida.
+Na terceira tentativa, da mesma forma, o modelo estava sendo gerado e houve uma falha do sistema interrompendo a analise. A acuracidade da informaçao ficou em 5,5%. Tentei fazer o processamento da informaçao, porem da mesma forma houve uma instabilidade do sistema.
+
+## Analise do Modelo
+Em relaçao as 3 primeiras tentativas, nao foi possivel executar nenhuma analise.
+
+## Previsao dos dados.
